@@ -10,7 +10,7 @@ function Footer() {
 						cy='50'
 						r='40'
 						stroke='black'
-						stroke-width='3'
+						strokeWidth='3'
 						fill='white'
 					/>
 					Sorry, your browser does not support inline SVG.
